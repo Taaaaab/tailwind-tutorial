@@ -4,4 +4,4 @@ Tailwind CSS Tutorial
 
 ## Screenshot
 
-![Alt text]("https://raw.githubusercontent.com/Taaaaab/tailwind-tutorial/main/public/img/screenshot.png")
+![Alt text]("https://github.com/Taaaaab/tailwind-tutorial/blob/main/public/img/screenshot.png?raw=true")
